@@ -45,8 +45,7 @@ int main() {
 }
 ```
 ## Output:
-<img width="397" height="146" alt="Screenshot 2025-11-02 185249" src="https://github.com/user-attachments/assets/4f2530e5-c9db-4f83-ab8d-d70388466f43" />
+<img width="397" height="146" alt="image" src="https://github.com/user-attachments/assets/4d2e0740-e0c8-4aa7-81dc-43b6215e5a4d" />
 
 ## Result:
   The program is executed successfully
-
